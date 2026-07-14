@@ -1,9 +1,9 @@
 # 🚀 About Me
-カラフルピーチ再現ミニゲームを制作し、JE･BEサーバーを運営しています。
-マイクラのMOD,サーバー,プラグイン,スクリプト,デタパ,リソパ,マップを制作しています。
+### カラフルピーチ再現ミニゲームを制作し、JE･BEサーバーを運営しています。
+### マイクラのMOD,サーバー,プラグイン,スクリプト,デタパ,リソパ,マップを制作しています。
 
 # 📫 Contact
-Website : https://clpc.club
-Discord : https://dsc.gg/clpc
-YouTube : https://www.youtube.com/@UMA_ModCreator
-X: https://x.com/@UMA_ModCreator
+### Website : https://clpc.club
+### Discord : https://dsc.gg/clpc
+### YouTube : https://www.youtube.com/@UMA_ModCreator
+### X: https://x.com/@UMA_ModCreator
