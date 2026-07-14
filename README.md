@@ -5,5 +5,5 @@
 # 📫 Contact
 ### Website : https://clpc.club
 ### Discord : https://dsc.gg/clpc
-### YouTube : https://www.youtube.com/@UMA_ModCreator
+### YouTube : https://youtube.com/@UMA_ModCreator
 ### X: https://x.com/@UMA_ModCreator
