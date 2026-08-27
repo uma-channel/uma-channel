@@ -7,3 +7,6 @@
 ### Discord : https://dsc.gg/clpc
 ### YouTube : https://youtube.com/@UMA_ModCreator
 ### X: https://x.com/@UMA_ModCreator
+
+# 📜 License
+### https://clpc.club/tos.html
