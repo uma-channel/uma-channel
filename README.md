@@ -9,4 +9,4 @@
 ### X(Twitter): https://x.com/@UMA_ModCreator
 
 # 📜 License
-### https://clpc.club/tos.html
+### https://clpc.club/tos
