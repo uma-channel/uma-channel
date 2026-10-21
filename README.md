@@ -1,6 +1,6 @@
 # 🚀 About Me
-### マイクラJE･BEサーバー所有・コンテンツ制作してます。
-### マイクラのMOD,SV,PL,Sk,DP,RP,MAPを主に制作しています。
+### マイクラJE･BEサーバー所有/開発者。
+### マイクラのDP,RP,Sk,PL,MOD,MAP等を主に制作しています。
 
 # 📫 Contact
 ### Website : https://clpc.club
